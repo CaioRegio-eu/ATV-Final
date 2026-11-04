@@ -115,7 +115,7 @@ A IA foi utilizada como apoio para analisar a estrutura existente, identificar o
 ## Projeto e repositório
 
 - **Autor:** Caio Candiani Regio
-- **Repositório:** https://github.com/CaioRegio-eu/-ATV-RESTILIZA-O
+- **Repositório:** https://github.com/CaioRegio-eu/ATV-Final.git
 - **GitHub do autor:** https://github.com/CaioRegio-eu
 
 ## Como executar localmente
